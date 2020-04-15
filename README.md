@@ -22,7 +22,9 @@
   </a>
 </p>
 
-
+<h1 align="center">
+  <img src="assets/add%20user.jpg" height="500em"/> <img src="assets/list%20detail.jpg" height="500em"/> 
+<h1/>
 ## :rocket: Sobre o desafio
 
 Nesse desafio você adicionará novas funcionalidades na aplicação que desenvolvemos ao longo desse módulo.
